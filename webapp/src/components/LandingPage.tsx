@@ -99,7 +99,7 @@ const LandingPage: React.FC = () => {
               Memory-Efficient LLM Inference
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
-              Reduce memory overhead by 40-60% while maintaining model quality. Optimize your inference infrastructure.
+              Reduce memory overhead while maintaining model quality. Optimize your inference infrastructure with KV-cache-free techniques.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
@@ -228,7 +228,7 @@ const LandingPage: React.FC = () => {
             Ready to Optimize Your Inference?
           </h2>
           <p className="text-lg mb-8 opacity-90">
-            Join hundreds of companies reducing infrastructure costs with InferCheap
+            Start reducing your inference infrastructure costs today
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
