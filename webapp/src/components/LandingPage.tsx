@@ -62,21 +62,21 @@ const LandingPage: React.FC = () => {
 
   const testimonials = [
     {
-      name: 'Dr. Sarah Chen',
-      role: 'ML Engineering at CloudScale',
-      content: 'InferCheap reduced our inference costs by 45% while maintaining quality. Game-changer.',
+      name: 'Research Foundation',
+      role: 'Transparent methodology',
+      content: 'Built on peer-reviewed research with transparent methodology.',
       avatar: '👩‍💼',
     },
     {
-      name: 'Marcus Johnson',
+      name: 'Open Source',
       role: 'Peer-reviewed research',
-      content: 'The memory savings allowed us to serve 3x more requests on the same hardware.',
+      content: 'Open-source core with auditable code and documentation.',
       avatar: '👨‍💼',
     },
     {
-      name: 'Elena Rodriguez',
-      role: 'Research Lead at TechAI',
-      content: 'Best-in-class latency monitoring. We can now optimize with confidence.',
+      name: 'Developer Tools',
+      role: 'Well-documented APIs',
+      content: 'Developer-friendly APIs with comprehensive documentation.',
       avatar: '👩‍💻',
     },
   ];
